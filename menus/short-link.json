@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Run short-link",
+        "command": "short-link:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "short-link",
+          "submenu": [
+            {
+              "label": "run",
+              "command": "short-link:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

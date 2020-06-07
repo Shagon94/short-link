@@ -1,0 +1,15 @@
+{
+  "name": "short-link",
+  "main": "./lib/short-link",
+  "version": "0.0.0",
+  "description": "Replaces links in documents with some other character or emoji reducing their size until the cursor is over them",
+  "keywords": [
+  ],
+  "repository": "https://github.com/shagon94/short-link",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+  }
+}
